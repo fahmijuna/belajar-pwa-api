@@ -1,0 +1,124 @@
+{
+"mahasiswa":
+[{
+  "id": 1,
+  "name": "Liuka",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "name": "Trina",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Halette",
+  "gender": "Female"
+}, {
+  "id": 4,
+  "name": "Orlando",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Emmett",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "name": "Ilise",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Darius",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Garrett",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "name": "Chan",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "name": "Margit",
+  "gender": "Female"
+}, {
+  "id": 11,
+  "name": "Pia",
+  "gender": "Female"
+}, {
+  "id": 12,
+  "name": "Gasparo",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "name": "Pauletta",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Karl",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Thomasin",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Pattie",
+  "gender": "Female"
+}, {
+  "id": 17,
+  "name": "Valeda",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "name": "Carline",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Mata",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "name": "Rubi",
+  "gender": "Female"
+}, {
+  "id": 21,
+  "name": "Jasper",
+  "gender": "Male"
+}, {
+  "id": 22,
+  "name": "Elden",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "name": "Brook",
+  "gender": "Male"
+}, {
+  "id": 24,
+  "name": "Erasmus",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "name": "Kaspar",
+  "gender": "Male"
+}, {
+  "id": 26,
+  "name": "Catlaina",
+  "gender": "Female"
+}, {
+  "id": 27,
+  "name": "Leandra",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Clemmy",
+  "gender": "Female"
+}, {
+  "id": 29,
+  "name": "Ty",
+  "gender": "Male"
+}, {
+  "id": 30,
+  "name": "Lotty",
+  "gender": "Female"
+}]
+}
